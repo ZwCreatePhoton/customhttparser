@@ -63,9 +63,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -79,7 +76,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -92,7 +88,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 -->
 
-Stateful HTTP parser C++ library that exposes access to message parser state and message field values as HTTP messages are parsed.
+Stateful HTTP parser C++ library that exposes access to message parser state and message field values as each data segment is processed and parsed.
 
 
 <!-- 
