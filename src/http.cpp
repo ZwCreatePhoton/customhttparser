@@ -3,6 +3,7 @@
 #include <string>
 #include <utility>
 #include <iostream>
+#include <limits>
 
 #include <customhttparser/message_parser.h>
 #include <customhttparser/http.h>
